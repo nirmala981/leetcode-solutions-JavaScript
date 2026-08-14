@@ -31,8 +31,13 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
+| [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
