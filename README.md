@@ -19,6 +19,7 @@ My LeetCode problem solutions in JavaScript
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -49,4 +50,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
