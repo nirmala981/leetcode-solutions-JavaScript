@@ -12,6 +12,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1768-merge-strings-alternately) |
@@ -40,4 +41,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
