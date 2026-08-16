@@ -73,4 +73,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
