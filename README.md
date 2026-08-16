@@ -37,6 +37,7 @@ My LeetCode problem solutions in JavaScript
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
@@ -77,4 +78,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0328-odd-even-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
