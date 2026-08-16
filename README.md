@@ -39,6 +39,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
@@ -48,6 +49,7 @@ My LeetCode problem solutions in JavaScript
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
