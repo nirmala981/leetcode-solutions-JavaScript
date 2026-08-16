@@ -42,6 +42,7 @@ My LeetCode problem solutions in JavaScript
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +69,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
