@@ -41,6 +41,7 @@ My LeetCode problem solutions in JavaScript
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -73,6 +74,7 @@ My LeetCode problem solutions in JavaScript
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
