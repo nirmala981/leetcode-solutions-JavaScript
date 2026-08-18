@@ -86,4 +86,20 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
