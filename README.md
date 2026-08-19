@@ -81,6 +81,7 @@ My LeetCode problem solutions in JavaScript
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0328-odd-even-linked-list) |
 ## Bit Manipulation
 |  |
@@ -102,4 +103,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
