@@ -68,6 +68,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -87,6 +88,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
