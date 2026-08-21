@@ -93,10 +93,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 ## Recursion
 |  |
 | ------- |
