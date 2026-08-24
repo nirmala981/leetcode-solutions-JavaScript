@@ -6,6 +6,7 @@ My LeetCode problem solutions in JavaScript
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0345-reverse-vowels-of-a-string) |
@@ -40,6 +41,7 @@ My LeetCode problem solutions in JavaScript
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
@@ -52,6 +54,7 @@ My LeetCode problem solutions in JavaScript
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
