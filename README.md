@@ -24,6 +24,7 @@ My LeetCode problem solutions in JavaScript
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -86,6 +87,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
@@ -131,4 +133,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
