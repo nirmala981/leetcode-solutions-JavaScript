@@ -48,6 +48,7 @@ My LeetCode problem solutions in JavaScript
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
@@ -67,6 +68,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -141,4 +143,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
