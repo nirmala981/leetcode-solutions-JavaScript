@@ -12,6 +12,7 @@ My LeetCode problem solutions in JavaScript
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -51,6 +52,7 @@ My LeetCode problem solutions in JavaScript
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
@@ -90,6 +92,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
@@ -139,6 +142,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
