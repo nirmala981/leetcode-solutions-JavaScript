@@ -73,6 +73,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -154,9 +155,18 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
