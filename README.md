@@ -20,6 +20,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0345-reverse-vowels-of-a-string) |
@@ -91,6 +92,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
