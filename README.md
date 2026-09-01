@@ -119,6 +119,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Tree
 |  |
 | ------- |
