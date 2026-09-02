@@ -99,6 +99,7 @@ My LeetCode problem solutions in JavaScript
 | [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
+| [0790-domino-and-tromino-tiling](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
