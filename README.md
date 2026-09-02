@@ -36,6 +36,7 @@ My LeetCode problem solutions in JavaScript
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
@@ -92,6 +93,7 @@ My LeetCode problem solutions in JavaScript
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
@@ -204,4 +206,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
