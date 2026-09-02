@@ -27,6 +27,7 @@ My LeetCode problem solutions in JavaScript
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
@@ -96,6 +97,7 @@ My LeetCode problem solutions in JavaScript
 | [0338-counting-bits](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
@@ -198,4 +200,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
