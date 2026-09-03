@@ -39,6 +39,7 @@ My LeetCode problem solutions in JavaScript
 | [0062-unique-paths](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1137-n-th-tribonacci-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -104,12 +105,14 @@ My LeetCode problem solutions in JavaScript
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0790-domino-and-tromino-tiling) |
+| [1137-n-th-tribonacci-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
