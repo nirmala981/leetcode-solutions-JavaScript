@@ -63,6 +63,7 @@ My LeetCode problem solutions in JavaScript
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -203,6 +204,7 @@ My LeetCode problem solutions in JavaScript
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 ## Trie
 |  |
