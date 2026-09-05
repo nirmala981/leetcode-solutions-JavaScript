@@ -16,6 +16,7 @@ My LeetCode problem solutions in JavaScript
 | [1768-merge-strings-alternately](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My LeetCode problem solutions in JavaScript
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +170,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +223,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Longest Common Subsequence
 |  |
 | ------- |
