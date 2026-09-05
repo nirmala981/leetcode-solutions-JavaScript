@@ -15,6 +15,7 @@ My LeetCode problem solutions in JavaScript
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My LeetCode problem solutions in JavaScript
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
@@ -178,6 +180,7 @@ My LeetCode problem solutions in JavaScript
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +210,7 @@ My LeetCode problem solutions in JavaScript
 | [0374-guess-number-higher-or-lower](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
 | ------- |
