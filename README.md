@@ -76,6 +76,7 @@ My LeetCode problem solutions in JavaScript
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ My LeetCode problem solutions in JavaScript
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
+| [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +186,7 @@ My LeetCode problem solutions in JavaScript
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -224,6 +227,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Longest Common Subsequence
 |  |
 | ------- |
