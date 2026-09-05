@@ -131,6 +131,7 @@ My LeetCode problem solutions in JavaScript
 | [1657-determine-if-two-strings-are-close](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
@@ -206,6 +207,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
@@ -226,6 +228,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Longest Common Subsequence
@@ -245,4 +248,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0374-guess-number-higher-or-lower) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
