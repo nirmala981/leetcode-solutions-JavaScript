@@ -204,6 +204,7 @@ My LeetCode problem solutions in JavaScript
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 ## Trie
@@ -228,4 +229,8 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0216-combination-sum-iii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
