@@ -57,6 +57,7 @@ My LeetCode problem solutions in JavaScript
 | [0011-container-with-most-water](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
@@ -181,6 +182,7 @@ My LeetCode problem solutions in JavaScript
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
@@ -227,6 +229,7 @@ My LeetCode problem solutions in JavaScript
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -252,4 +255,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2336-smallest-number-in-infinite-set) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
