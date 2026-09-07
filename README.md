@@ -67,6 +67,7 @@ My LeetCode problem solutions in JavaScript
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -160,6 +161,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@ My LeetCode problem solutions in JavaScript
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
