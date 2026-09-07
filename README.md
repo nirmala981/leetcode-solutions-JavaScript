@@ -74,6 +74,7 @@ My LeetCode problem solutions in JavaScript
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
@@ -162,6 +163,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
