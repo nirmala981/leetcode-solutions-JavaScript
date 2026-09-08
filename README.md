@@ -154,6 +154,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -172,6 +173,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 ## Recursion
 |  |
@@ -293,4 +295,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
