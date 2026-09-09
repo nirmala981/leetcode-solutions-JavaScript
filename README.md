@@ -70,6 +70,7 @@ My LeetCode problem solutions in JavaScript
 | [0746-min-cost-climbing-stairs](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -94,6 +95,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
@@ -214,6 +216,7 @@ My LeetCode problem solutions in JavaScript
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
@@ -231,6 +234,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Trie
