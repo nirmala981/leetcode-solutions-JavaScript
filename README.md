@@ -29,6 +29,7 @@ My LeetCode problem solutions in JavaScript
 | [0208-implement-trie-prefix-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -102,6 +103,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -189,6 +191,7 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
