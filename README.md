@@ -168,6 +168,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -176,6 +177,7 @@ My LeetCode problem solutions in JavaScript
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -294,10 +296,12 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
