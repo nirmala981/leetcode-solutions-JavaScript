@@ -32,6 +32,7 @@ My LeetCode problem solutions in JavaScript
 | [0394-decode-string](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/1268-search-suggestions-system) |
@@ -92,6 +93,7 @@ My LeetCode problem solutions in JavaScript
 | [0435-non-overlapping-intervals](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0649-dota2-senate) |
 | [2542-maximum-subsequence-score](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -322,4 +324,8 @@ My LeetCode problem solutions in JavaScript
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0700-search-in-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/nirmala981/leetcode-solutions-JavaScript/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
